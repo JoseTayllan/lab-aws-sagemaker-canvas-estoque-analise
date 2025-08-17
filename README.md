@@ -23,7 +23,6 @@
 - [Custos, Segurança e Governança](#custos-segurança-e-governança)
 - [Limitações e Próximos Passos](#limitações-e-próximos-passos)
 - [Reprodutibilidade (passo a passo)](#reprodutibilidade-passo-a-passo)
-- [Checklist para Submissão na DIO](#checklist-para-submissão-na-dio)
 - [Licença](#licença)
 
 ---
