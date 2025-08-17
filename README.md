@@ -213,18 +213,10 @@
 7. **Gerar Previsões** (Batch) e exportar CSV.
 8. **Aplicar** fórmulas de ROP/SS e integrar ao processo (planilha/BI/ERP).
 
-## Checklist para Submissão na DIO
-
--
 
 ## Licença
 
 Este projeto está sob a licença **MIT**. Sinta-se à vontade para usar e adaptar, citando a fonte.
 
----
 
-### Anexos (opcional)
-
-- Prints da tela do Canvas (Avaliação, Importância, Previsões).
-- Amostra do CSV de previsão (`outputs/forecast_sample.csv`).
 
